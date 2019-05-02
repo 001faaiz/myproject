@@ -1,0 +1,35 @@
+body {
+    background-color: #f5d9d5;
+    font-family: 'Nunito', sans-serif;
+
+}
+/* @media screen and (min-width: 500px) {
+    body {
+        background-color: blue;
+        color: black;
+    }
+} */
+
+.active {
+    background-color: white;
+}
+
+li a:hover {
+    background-color: lightskyblue;
+    color: white;
+}
+h1{
+    color: white;
+    font-size: 3rem;
+    font-weight: 100;
+    font-family: 'Wendy One', sans-serif;
+}
+@media (max-width: 1200px;)
+{
+    body:black;
+}
+
+}
+.contents {
+    margin: 100px 0;
+}
